@@ -2,7 +2,7 @@
 
 > 从零开始创建你的第一个 OpenClaw 技能 | 成为 OpenClaw Contributor 的完整指南
 
-**作者**: [@uninhibite-scholar](https://github.com/uninhibite-scholar)  
+**作者**: [@uninhibited-scholar](https://github.com/uninhibited-scholar)  
 **最后更新**: 2026-03-10  
 **适用版本**: OpenClaw v2026.3+
 
@@ -574,7 +574,7 @@ gh pr create --title "feat: add todo-manager skill" --body "Closes #123"
 
 - [OpenClaw 官方文档](https://docs.openclaw.ai)
 - [ClawHub 技能市场](https://clawhub.com)
-- [示例技能仓库](https://github.com/uninhibite-scholar/openclaw-skills)
+- [示例技能仓库](https://github.com/uninhibited-scholar/openclaw-skills)
 
 ### 下一步
 
